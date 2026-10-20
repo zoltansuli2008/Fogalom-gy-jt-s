@@ -1,0 +1,129 @@
+4
+6.2 Ágazati alapoktatás szakmai követelményei
+Sor-
+szám
+Készségek, képessé-
+gek Ismeretek Elvárt viselkedés-
+módok, attitűdök
+Önállóság és fele-
+lősség mértéke
+1
+Adott kapcsolási rajz
+alapján egyszerűbb
+áramköröket épít
+próbapanel segítség-
+ével vagy forrasztá-
+sos technológiával.
+Ismeri az elektronikai
+alapfogalmakat, kap-
+csolódó fizikai törvé-
+nyeket, alapvető alkat-
+részeket és kapcsolá-
+sokat.
+A funkcionalitás
+biztosítása mellett
+törekszik az esztéti-
+kus kialakításra (pl.
+minőségi forrasz-
+tás, egyenletes al-
+katrész sűrűség, ol-
+vashatóság).
+Az elektromos be-
+rendezésekre vonat-
+kozó munka- és bal-
+esetvédelmi szabá-
+lyokat a saját és má-
+sok testi épsége ér-
+dekében betartja és
+betartatja.
+2
+Alapvető villamos
+méréseket végez ön-
+állóan a megépített
+áramkörökön.
+Ismeri az elektromos
+mennyiségek mérési
+metódusait, a mérő-
+műszerek használatát.
+3
+Elvégzi a számítógé-
+pen és a mobil esz-
+közökön az operá-
+ciós rendszer (pl.
+Windows, Linux,
+Android, iOS), vala-
+mint az alkalmazói
+szoftverek telepíté-
+sét, frissítését és
+alapszintű beállítá-
+sát. Grafikus felüle-
+ten, valamint pa-
+rancssorban hasz-
+nálja a Windows, és
+Linux operációs
+rendszerek alap-
+szintű parancsait és
+szolgáltatásait (pl.
+állomány- és könyv-
+tárkezelési művele-
+tek, jogosultságok
+beállítása, szövegfáj-
+lokkal végzett műve-
+letek, folyamatok ke-
+zelése).
+Ismeri a számítógépen
+és a mobil informati-
+kai eszközökön hasz-
+nált operációs rend-
+szerek telepítési és
+frissítési módjait,
+alapvető parancsait és
+szolgáltatásait, vala-
+mint alapvető beállí-
+tási lehetőségeit.
+Törekszik a fel-
+használói igények-
+hez alkalmazkodó
+szoftverkörnyezet
+kialakítására.
+Önállóan elvégzi a
+kívánt szoftverek te-
+lepítését, szükség
+esetén gondoskodik
+az eszközön koráb-
+ban tárolt adatok biz-
+tonsági mentéséről.
+4
+Elvégzi a PC perifé-
+riáinak csatlakoztatá-
+sát, szükség esetén új
+alkatrészt szerel be,
+vagy alkatrészt cse-
+rél egy számítógép-
+ben.
+Ismeri az otthoni és
+irodai informatikai
+környezetet alkotó
+legáltalánosabb össze-
+tevők (PC, nyomtató,
+mobiltelefon, WiFi
+router stb.) szerepét,
+alapvető működési
+módjukat. Ismeri a PC
+és a mobil eszközök
+főbb alkatrészeit (pl.
+alaplap, CPU, memó-
+ria) és azok szerepét.
+Törekszik a végre-
+hajtandó műveletek
+precíz és előírások-
+nak megfelelő el-
+végzésére.
+Az informatikai be-
+rendezésekre vonat-
+kozó munka- és bal-
+esetvédelmi szabá-
+lyokat a saját és má-
+sok testi épsége ér-
+dekében betartja és
+betartatja
