@@ -1,0 +1,24 @@
+fogalom gyűjtés
+
+13.
+Objektum-orientált (OOP) programozási módszertant alkalmazó asztali, webes és mobil alkalmazást készít.
+Ismeri az objektum-orientált programozás elvét, tisztában van az öröklődés, a polimorfizmus, a metódus/konstruktor túlterhelés fogalmával.
+Törekszik az OOP technológia nyújtotta előnyök kihasználására, valamint igyekszik követni az OOP irányelveket és ajánlásokat.
+Kisebb projektekben önállóan tervezi meg a szükséges osztályokat, nagyobb projektekben irányítás mellett, a projektben a projektcsapat által létrehozott osztálystruktúrát használva, illetve azt kiegészítve végzi a fejlesztést.
+
+14.
+Tartalomkezelő rendszer (CMS, pl. WordPress) segítségével webhelyet készít, egyéni problémák megoldására saját beépülőket hoz létre.
+Ismeri a tartalomkezelő-rendszerek célját és alapvető szolgáltatásait. Ismeri a beépülők célját és alkalmazási területeit.
+Törekszik az igényes kialakítású és a felhasználók számára könnyű használatot biztosító webhelyek kialakítására.
+Kevésbé összetett portálokat igényes vizuális megjelenést biztosító sablonok, valamint magas funkcionalitást biztosító beépülők használatával önállóan valósít meg. Összetettebb projekteken irányítás mellett, grafikus tervezőkkel, UX szakemberekkel és más fejlesztőkkel együttműködve dolgozik. Saját fejlesztésként megvalósított kisebb projektekben önállóan végzi a tesztelést, tesztelői szerepben nagyobb projektekben irányítás mellett végez meghatározott tesztelési feladatokat.
+
+15.
+Manuális és automatizált szoftvertesztelést végezve ellenőrzi a szoftver hibátlan működését, dokumentálja a tesztek eredményét.
+Ismeri az unit tesztelés, valamint más tesztelési, hibakeresési technikák alapelveit és alapvető eszközeit.
+Törekszik a mindenre kiterjedő, az összes lehetséges hibát felderítő tesztelésre, valamint a tesztek körültekintő dokumentálására.
+
+16.
+Szoftverfejlesztés vagy -tesztelés során felmerülő problémákat old meg és hibákat hárít el webes kereséssel és internetes tudásbázisok használatával (pl. Stack Overflow).
+Ismeri a hibakeresés szisztematikus módszereit, a problémák elhárításának lépéseit. Ismeri a munkájához kapcsolódó internetes keresési módszereket és tudásbázisokat.
+Törekszik a hibák elhárítására, megoldására, és arra, hogy azokkal lehetőleg szerint ne okozzon újabb hibákat.
+Internetes információsterzéssel önállóan old meg problémákat és hárít el hibákat.
